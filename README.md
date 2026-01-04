@@ -86,3 +86,33 @@ SentenceTransformer: Text embeddings
 Whisper: Audio transcription
 CLIP: Image embeddings
 FAISS: Vector similarity search
+
+
+---
+
+## 📊 Results
+- Integrates **text, PDF, audio, and image embeddings** into a single FAISS index.
+- Enables **semantic search** across modalities.
+- Example query: *“How is AI used in healthcare?”* returns relevant snippets from text, PDF, audio transcription, and image content.
+
+---
+
+## 📚 Datasets
+You can experiment with:
+- [COCO Dataset](https://cocodataset.org/)
+- [Flickr30k Dataset](https://www.bing.com/search?q=Flickr30k+dataset)
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!  
+1. Fork the repo  
+2. Create a new branch  
+3. Commit changes  
+4. Submit a pull request  
+
+--
+
+## 📬 Contact
+Created by **Saloni-2428**  
+For questions or collaborations, reach out via [GitHub profile](https://github.com/Saloni-2428).
